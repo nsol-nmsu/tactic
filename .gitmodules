@@ -1,0 +1,6 @@
+[submodule "main"]
+	path = main
+	url = ssh+git://git@github.com/raystubbs/tactic-main.git
+[submodule "ns-3-dev"]
+	path = ns-3-dev
+	url = ssh+git://git@github.com/raystubbs/tactic-ns3.git
